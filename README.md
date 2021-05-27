@@ -23,6 +23,8 @@ In both Project, you are reading the input (x vector) and the output (y vector) 
 2) Training is 3 examples.
 3) Second example has training example X [1 1 1.5] and output.
 
-##### Normalization is done by computing, for each numeric  x-data column value v, v' = (v - mean) / std dev. This  technique is sometimes called Gaussian normalization.
+There is a normalization step and it is done by computing, for each numeric  x-data column value v, v' = (v - mean) / std dev. This  technique is sometimes called Gaussian
+normalization.
+
 
 
